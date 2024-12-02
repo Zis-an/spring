@@ -1,0 +1,17 @@
+In Java, Servlet handles database connections with server.
+
+Controller -> Accept the clients Request
+Service -> Do any business logic
+Repository -> Connect with Database
+
+IoC -> Inversion of Control
+
+Dependency Injection is implemented in Spring using IoC's principle.
+
+In Spring, object creation and deletion is fully handled by Spring framework. Spring framework creates and injects the object.
+
+There are three technics of Dependency injection in Spring:
+
+1. Constructor Injection
+2. Setter Injection
+3. Field Injection ( Not recommended )
