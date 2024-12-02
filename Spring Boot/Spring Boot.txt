@@ -1,0 +1,7 @@
+In Java, by default a tomcat server is required to run application.
+
+To run a java project on the tomcat server, the project is required to convert into a .war(Web Archive) file, then the file is required to move into the tomcat to run that.
+
+In Spring Boot, a .jar file is created.
+
+In Spring Boot, a tomcat is embedded with it.
